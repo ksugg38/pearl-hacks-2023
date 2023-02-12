@@ -1,0 +1,167 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" /></head><body><div class="v11_21"><div class="v12_7"></div><span class="v11_22">7:00 pm</span><div class="v11_23"></div><span class="v11_24">Next scheduled dose: </span><div class="v11_28"><div class="v11_27"></div></div><span class="v11_29">Medication log</span><div class="v20_2"></div><div class="v12_8"></div><span class="v11_30">Contact my provider</span><span class="v24_2">pill box is</span><span class="v24_3">locked</span></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v11_21 {
+  width: 390px;
+  height: 844px;
+  background: rgba(221,245,247,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v12_7 {
+  width: 672px;
+  height: 654px;
+  background: linear-gradient(rgba(68,103,159,0.7799999713897705), rgba(147,168,0,0.75));
+  opacity: 1;
+  position: absolute;
+  top: 902px;
+  left: 0px;
+  border: 1px solid rgba(0,26,62,1);
+  transform: rotate(-120deg);
+}
+.v11_22 {
+  width: 380px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 409px;
+  left: 5px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 80px;
+  opacity: 1;
+  text-align: center;
+}
+.v11_23 {
+  width: 343px;
+  height: 119px;
+  background: rgba(53,123,255,0);
+  opacity: 1;
+  position: absolute;
+  top: 409px;
+  left: 23px;
+  border: 1px solid rgba(0,26,62,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v11_24 {
+  width: 283px;
+  color: rgba(0,26,62,1);
+  position: absolute;
+  top: 363px;
+  left: 23px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_28 {
+  width: 66px;
+  height: 65px;
+  background: url("../images/v11_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  left: 306px;
+  overflow: hidden;
+}
+.v11_27 {
+  width: 66px;
+  height: 65px;
+  background: rgba(68,103,159,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.v11_29 {
+  width: 206px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 575px;
+  left: 92px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v20_2 {
+  width: 214px;
+  height: 56px;
+  background: rgba(255,255,255,0);
+  opacity: 1;
+  position: absolute;
+  top: 561px;
+  left: 88px;
+  border: 1px solid rgba(255,255,255,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v12_8 {
+  width: 313px;
+  height: 52px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 776px;
+  left: 38px;
+  border: 1px solid rgba(54,124,255,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v11_30 {
+  width: 235px;
+  color: rgba(0,26,62,1);
+  position: absolute;
+  top: 787px;
+  left: 77px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v24_2 {
+  width: 321px;
+  color: rgba(0,26,62,1);
+  position: absolute;
+  top: 60px;
+  left: 34px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v24_3 {
+  width: 321px;
+  color: rgba(0,26,62,1);
+  position: absolute;
+  top: 103px;
+  left: 64px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+</style>
