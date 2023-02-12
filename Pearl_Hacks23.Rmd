@@ -1,0 +1,38 @@
+---
+title: "Pearl Hacks 2023 Project: Pill Box"
+author: "Katie Sugg, Anushka Deshmukh, and Mackie Jackson"
+output: html_document
+date: "2023-02-12"
+---
+
+
+# Library of functions used.
+
+```{r}
+library(tidyverse)
+library(tidyr)
+library(kableExtra)
+library(knitr)
+```
+
+
+# Reads in the "recorded_data.csv" and mutates the dataset.
+
+```{r}
+dosesTaken <- suppressWarnings(read.csv(file = 'recorded_data.csv', header = FALSE, sep =',')) %>%
+              mutate( Time_taken = V1) %>%
+              mutate(Time_taken = substr(Time_taken, 1, 5)) %>%
+              mutate(Dose_number = row_number()) %>%
+              select(Dose_number, Time_taken)
+
+head(dosesTaken)
+```
+
+# Formats the dosesTake dataset.
+
+```{r}
+kable(dosesTaken)  %>%
+  kable_styling(bootstrap_options = c("striped", "hover"), full_width = F, html_font = "Cambria")
+
+```
+
