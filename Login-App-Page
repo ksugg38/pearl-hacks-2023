@@ -1,0 +1,206 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" /></head><body><div class="v5_3"><div class="v5_55"></div><div class="v11_9"></div><div class="v11_6"></div><div class="v5_59"></div><div class="v5_60"></div><div class="v5_57"></div><span class="v5_58">Log in</span><span class="v5_61">Email address</span><span class="v5_62">Password</span><span class="v5_63">addy@pillbox.com</span><span class="v5_65">••••••••••</span><span class="v5_64">Don’t have a pill box account? </span><span class="v11_2">Register here</span><span class="v11_3">Forgot password?</span><span class="v5_66">Log in</span></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v5_3 {
+  width: 390px;
+  height: 844px;
+  background: rgba(221,245,247,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v5_55 {
+  width: 337px;
+  height: 71px;
+  background: rgba(53,123,255,0);
+  opacity: 1;
+  position: absolute;
+  top: 721px;
+  left: 42px;
+  border: 1px solid rgba(54,124,255,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v11_9 {
+  width: 390px;
+  height: 386px;
+  background: linear-gradient(rgba(147,168,0,1), rgba(68,103,159,1));
+  opacity: 1;
+  position: absolute;
+  top: 445px;
+  left: 138px;
+  border: 1px solid rgba(0,26,62,1);
+}
+.v11_6 {
+  width: 666px;
+  height: 629px;
+  background: linear-gradient(rgba(68,103,159,0.5299999713897705), rgba(59,87,125,1));
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 99px;
+  border: 1px solid rgba(0,26,62,1);
+}
+.v5_59 {
+  width: 337px;
+  height: 53px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 230px;
+  left: 26px;
+  border: 1px solid rgba(54,124,255,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v5_60 {
+  width: 337px;
+  height: 53px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 124px;
+  left: 26px;
+  border: 1px solid rgba(54,124,255,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v5_57 {
+  width: 310px;
+  height: 55px;
+  background: rgba(68,103,159,1);
+  opacity: 1;
+  position: absolute;
+  top: 331px;
+  left: 41px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v5_58 {
+  width: 88px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 339px;
+  left: 149px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_61 {
+  width: 193px;
+  color: rgba(0,26,62,1);
+  position: absolute;
+  top: 88px;
+  left: 26px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_62 {
+  width: 193px;
+  color: rgba(0,26,62,1);
+  position: absolute;
+  top: 194px;
+  left: 26px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_63 {
+  width: 174px;
+  color: rgba(0,0,0,0.33000001311302185);
+  position: absolute;
+  top: 138px;
+  left: 40px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_65 {
+  width: 113px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 244px;
+  left: 41px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_64 {
+  width: 251px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 396px;
+  left: 69px;
+  font-family: Inter;
+  font-weight: Light;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_2 {
+  width: 118px;
+  color: rgba(147,168,0,1);
+  position: absolute;
+  top: 418px;
+  left: 137px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_3 {
+  width: 154px;
+  color: rgba(147,168,0,1);
+  position: absolute;
+  top: 288px;
+  left: 26px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v5_66 {
+  width: 106px;
+  color: rgba(0,26,62,1);
+  position: absolute;
+  top: 35px;
+  left: 26px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+</style>
